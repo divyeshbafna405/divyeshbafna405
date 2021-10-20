@@ -1,0 +1,13 @@
+<html>
+<body>
+<script>
+var x,y,z,a,b;
+x=prompt("Enter 1st number");
+y=prompt("Enter 2nd number");
+z=parseInt(x);
+a=parseInt(y);
+b=z-a
+alert("substraction of 1st and 2nd is"   +b);
+</script>
+</body>
+</html>
